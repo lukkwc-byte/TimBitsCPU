@@ -1,0 +1,6 @@
+CPU Name: TimBitsCPU
+
+Team Members:
+	- Kevin Luk		ID: 260517270
+	- Gabriela Stefanini	ID: 260612039
+	- Nikolaus Yasui	ID: 260558797
